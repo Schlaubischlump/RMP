@@ -1,0 +1,142 @@
+/* 
+  Localizable.strings
+  RMP
+
+  Created by David Klopp on 02.01.20.
+  Copyright © 2020 David Klopp. All rights reserved.
+*/
+
+"REISS_PROFILE"="Reiss Profile";
+"ACCEPTANCE"="Anerkennung";
+"CURIOSITY"="Neugier";
+"EATING"="Essen";
+"FAMILY"="Familie";
+"HONOR"="Ehre";
+"IDEALISM"="Idealismus";
+"INDEPENDENCE"="Unabhängigkeit";
+"ORDER"="Ordnung";
+"PHYSICAL_ACTIVITY"="Körperliche Aktivität";
+"POWER"="Macht";
+"ROMANCE"="Eros";
+"SAVING"="Sparen/Sammeln";
+"SOCIAL_CONTACT"="Beziehungen";
+"STATUS"="Status";
+"TRANQUILITY"="Emotionale Ruhe";
+"VENGEANCE"="Rache/Kampf";
+
+"RESULT"="Ergebnis";
+"BASIC_NEEDS"="Grundbedürfnisse";
+"STRONG"="stark";
+"WEAK"="schwach";
+
+"ACCEPTANCE_QUESTION_STRONG1"="Ich bin merklich unsicherer als die meisten Menschen.";
+"ACCEPTANCE_QUESTION_STRONG2"="Ich habe mehr Schwierigkeiten als die meisten Menschen, mit Kritik umzugehen.";
+"ACCEPTANCE_QUESTION_STRONG3"="Man sagt mir nach, unbeständig in Bezug auf meine Leistung zu sein.";
+"ACCEPTANCE_QUESTION_WEAK1"="Ich bin selbstsicher.";
+"ACCEPTANCE_QUESTION_WEAK2"="Man sagt mir nach, in Bezug auf meine Leistung beständig zu sein.";
+"ACCEPTANCE_QUESTION_WEAK3"="Ich habe eine »Kann ich«-Einstellung.";
+
+"CURIOSITY_QUESTION_STRONG1"="Man sagt mir nach, analytisch oder nachdenklich zu sein.";
+"CURIOSITY_QUESTION_STRONG2"="Meine Ideen sind mir sehr wichtig.";
+"CURIOSITY_QUESTION_STRONG3"="Man sagt mir nach, ein Denker zu sein.";
+"CURIOSITY_QUESTION_WEAK1"="Man sagt mir nach, ein praktisch veranlagter Mensch zu sein.";
+"CURIOSITY_QUESTION_WEAK2"="Ich denke nur selten über Theorien nach, die nicht umgesetzt werden können.";
+"CURIOSITY_QUESTION_WEAK3"="Die Schule fand ich langweilig.";
+
+"EATING_QUESTION_STRONG1"="Ich habe viel Freude am Essen.";
+"EATING_QUESTION_STRONG2"="Ich habe eine Tendenz, übergewichtig zu sein.";
+"EATING_QUESTION_STRONG3"="Ich weiß viel über Essen für Feinschmecker.";
+"EATING_QUESTION_WEAK1"="Man sagt mir nach, beim Essen mäkelig zu sein.";
+"EATING_QUESTION_WEAK2"="Ich habe eine Tendenz, untergewichtig zu sein.";
+"EATING_QUESTION_WEAK3"="Ich freue mich nur selten auf Mahlzeiten.";
+
+"FAMILY_QUESTION_STRONG1"="Mir bedeuten Kinder alles.";
+"FAMILY_QUESTION_STRONG2"="Ich mag es, Kinder um mich zu haben.";
+"FAMILY_QUESTION_STRONG3"="Ich verbringe viel Zeit mit meiner Familie.";
+"FAMILY_QUESTION_WEAK1"="Kinder langweilen mich.";
+"FAMILY_QUESTION_WEAK2"="Als ich ein(e) junge(r) Erwachsene(r) war, wollte ich keine Kinder.";
+"FAMILY_QUESTION_WEAK3"="Ich habe oft zu viel zu tun, um Zeit mit meiner Familie zu verbringen.";
+
+"HONOR_QUESTION_STRONG1"="Ich lege Wert darauf, meine Pflicht zu tun.";
+"HONOR_QUESTION_STRONG2"="Man sagt mir nach, loyal zu sein.";
+"HONOR_QUESTION_STRONG3"="Auf mein Wort kann man sich verlassen.";
+"HONOR_QUESTION_WEAK1"="Wenn es darum ginge, meinen Job zu behalten, würde ich lügen.";
+"HONOR_QUESTION_WEAK2"="Wenn sich die Umstände änderten, könnte ich Verpflichtungen nicht einhalten, die ich vorher eingegangen bin.";
+"HONOR_QUESTION_WEAK3"="Man sagt mir nach, opportunistisch zu sein.";
+
+"IDEALISM_QUESTION_STRONG1"="Ich habe Mitgefühl mit armen und kranken Menschen.";
+"IDEALISM_QUESTION_STRONG2"="Ich bewundere Menschen, deren Arbeit zum Wohl der Menschheit oder der Bedürftigen beiträgt.";
+"IDEALISM_QUESTION_STRONG3"="Ich spende großzügig für wohltätige Zwecke.";
+"IDEALISM_QUESTION_WEAK1"="Ich bin der Meinung, dass es nicht in meiner Verantwortung liegt, den Unterdrückten zu helfen.";
+"IDEALISM_QUESTION_WEAK2"="Ich »gucke lieber weg«, statt mich für die Probleme anderer Menschen zu engagieren.";
+"IDEALISM_QUESTION_WEAK3"="Ich empöre mich nur selten über soziale Ungerechtigkeit.";
+
+"INDEPENDENCE_QUESTION_STRONG1"="Mir ist sehr wichtig, selbstsicher zu sein.";
+"INDEPENDENCE_QUESTION_STRONG2"="Man sagt mir nach, eigensinnig zu sein.";
+"INDEPENDENCE_QUESTION_STRONG3"="Man sagt mir nach, etwas so zu machen, wie ich es will.";
+"INDEPENDENCE_QUESTION_WEAK1"="Ich schätze »gefühlsbetonte« Erfahrungen.";
+"INDEPENDENCE_QUESTION_WEAK2"="Ich bin stärker ein Nonkonformist als die meisten Menschen, die ich kenne.";
+"INDEPENDENCE_QUESTION_WEAK3"="Es ist mir wohl dabei, mich auf die Unterstützung der Familie oder des Ehepartners verlassen zu können.";
+
+"ORDER_QUESTION_STRONG1"="Man sagt mir nach, wohlorganisiert zu sein.";
+"ORDER_QUESTION_STRONG2"="Man sagt mir nach, sauber zu sein.";
+"ORDER_QUESTION_STRONG3"="Ich habe Schwierigkeiten, mich an Veränderungen anzupassen.";
+"ORDER_QUESTION_WEAK1"="Man sagt mir nach, desorganisiert zu sein.";
+"ORDER_QUESTION_WEAK2"="Ich mache gern etwas spontan.";
+"ORDER_QUESTION_WEAK3"="Ich neige dazu, mehrere Eisen auf einmal im Feuer zu haben.";
+
+"PHYSICAL_ACTIVITY_QUESTION_STRONG1"="Sport zu treiben ist wichtig dafür, dass ich glücklich bin.";
+"PHYSICAL_ACTIVITY_QUESTION_STRONG2"="Ich war beim Sport zweimal Mitglied einer Mannschaft (Schule und Hochschule zusammengenommen).";
+"PHYSICAL_ACTIVITY_QUESTION_STRONG3"="Fit zu sein ist mir sehr wichtig.";
+"PHYSICAL_ACTIVITY_QUESTION_WEAK1"="Man sagt mir nach, körperlich faul zu sein.";
+"PHYSICAL_ACTIVITY_QUESTION_WEAK2"="Ich neige dazu, körperlich anstrengende Aktivitäten zu meiden.";
+"PHYSICAL_ACTIVITY_QUESTION_WEAK3"="Ich bin nicht fit.";
+
+"POWER_QUESTION_STRONG1"="Man sagt mir nach, selbst die Dinge in die Hand zu nehmen.";
+"POWER_QUESTION_STRONG2"="Ich strebe nach der Führungsrolle.";
+"POWER_QUESTION_STRONG3"="Ich neige dazu, anderen ungefragt Ratschläge zu geben.";
+"POWER_QUESTION_WEAK1"="Ich meide Herausforderungen.";
+"POWER_QUESTION_WEAK2"="Es widerstrebt mir, anderen zu sagen, was sie tun sollen.";
+"POWER_QUESTION_WEAK3"="Man sagt mir nach, dass ich entspannt bin.";
+
+"ROMANCE_QUESTION_STRONG1"="Ich ziehe mich jeden Tag so an, dass ich attraktiv aussehe.";
+"ROMANCE_QUESTION_STRONG2"="Sexualität ist von wesentlicher Bedeutung für mein Glück.";
+"ROMANCE_QUESTION_STRONG3"="Ich bin beeindruckt von Menschen, die viele Sexualpartner anziehen.";
+"ROMANCE_QUESTION_WEAK1"="Ich habe selten Geschlechtsverkehr (bedeutend weniger als einmal in der Woche).";
+"ROMANCE_QUESTION_WEAK2"="Es fehlt mir bezogen auf meine sexuellen Fähigkeiten an Selbstbewusstsein.";
+"ROMANCE_QUESTION_WEAK3"="Ich denke im Alltag nur selten an Eros/Sexualität.";
+
+"SAVING_QUESTION_STRONG1"="Ich repariere lieber etwas, als dass ich etwas als Ersatz kaufe.";
+"SAVING_QUESTION_STRONG2"="Ich mag es überhaupt nicht, etwas wegzuwerfen.";
+"SAVING_QUESTION_STRONG3"="Man sagt mir nach, dass ich sparsam bin.";
+"SAVING_QUESTION_WEAK1"="Die Dinge, die ich besitze, sind mir gleichgültig.";
+"SAVING_QUESTION_WEAK2"="Ich gebe oft mehr aus, als mir im Monat zur Verfügung steht.";
+"SAVING_QUESTION_WEAK3"="Man sagt mir nach, dass ich verschwenderisch bin.";
+
+"SOCIAL_CONTACT_QUESTION_STRONG1"="Ich bin gut darin, soziale Beziehungen aufzubauen.";
+"SOCIAL_CONTACT_QUESTION_STRONG2"="Man sagt mir nach, dass ich freundlich bin.";
+"SOCIAL_CONTACT_QUESTION_STRONG3"="Ich habe ein aktiveres soziales Leben als die meisten Leute, die ich kenne.";
+"SOCIAL_CONTACT_QUESTION_WEAK1"="Man sagt mir nach, dass ich unnahbar bin.";
+"SOCIAL_CONTACT_QUESTION_WEAK2"="Ich verbringe viel Zeit alleine (mehr als die meisten Leute, die ich kenne).";
+"SOCIAL_CONTACT_QUESTION_WEAK3"="Ich habe ein Problem damit, »Small Talk« zu machen.";
+
+"STATUS_QUESTION_STRONG1"="Man sagt mir nach, dass ich ein förmlicher Mensch bin.";
+"STATUS_QUESTION_STRONG2"="Ich kaufe mir meist die prestigeträchtigsten Dinge, die ich mir leisten kann.";
+"STATUS_QUESTION_STRONG3"="Ich bin von reichen Menschen beeindruckt.";
+"STATUS_QUESTION_WEAK1"="Ich lasse mich von reichen Menschen nicht beeindrucken.";
+"STATUS_QUESTION_WEAK2"="Ich bin ein zwangloser Mensch.";
+"STATUS_QUESTION_WEAK3"="Ich mache mir nicht viel daraus, was andere Menschen von mir denken.";
+
+"TRANQUILITY_QUESTION_STRONG1"="Ich bin jemand, der sich ständig Sorgen macht.";
+"TRANQUILITY_QUESTION_STRONG2"="Ich habe Panikattacken.";
+"TRANQUILITY_QUESTION_STRONG3"="Ich habe eine geringe Schmerztoleranz.";
+"TRANQUILITY_QUESTION_WEAK1"="Man sagt mir nach, dass ich unter Druck gelassen bleibe.";
+"TRANQUILITY_QUESTION_WEAK2"="Ich bin ein Draufgänger.";
+"TRANQUILITY_QUESTION_WEAK3"="Man sagt mir nach, dass ich bei Gefahren mutig bin.";
+
+"VENGEANCE_QUESTION_STRONG1"="Ich gerate oft in Streitereien, Wortgefechte oder Prügeleien.";
+"VENGEANCE_QUESTION_STRONG2"="Man sagt mir nach, dass ich ein Konkurrent oder Kämpfer bin.";
+"VENGEANCE_QUESTION_STRONG3"="Zu siegen ist mir sehr wichtig.";
+"VENGEANCE_QUESTION_WEAK1"="Man sagt mir nach, dass ich ein Friedensstifter bin.";
+"VENGEANCE_QUESTION_WEAK2"="Ich gebe mir große Mühe, Konfrontationen zu meiden.";
+"VENGEANCE_QUESTION_WEAK3"="Gewalt finde ich abschreckend.";

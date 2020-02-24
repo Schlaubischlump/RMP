@@ -1,0 +1,141 @@
+/* 
+  Localizable.strings
+  RMP
+
+  Created by David Klopp on 02.01.20.
+  Copyright © 2020 David Klopp. All rights reserved.
+*/
+"REISS_PROFILE"="Reiss profile";
+"ACCEPTANCE"="Acceptance";
+"CURIOSITY"="Curiosity";
+"EATING"="Eating";
+"FAMILY"="Family";
+"HONOR"="Honor";
+"IDEALISM"="Idealism";
+"INDEPENDENCE"="Independence";
+"ORDER"="Order";
+"PHYSICAL_ACTIVITY"="Physical Activity";
+"POWER"="Power";
+"ROMANCE"="Romance";
+"SAVING"="Saving";
+"SOCIAL_CONTACT"="Social Contact";
+"STATUS"="Status";
+"TRANQUILITY"="Tranquility";
+"VENGEANCE"="Vengeance";
+
+"RESULT"="Result";
+"BASIC_NEEDS"="Basic needs";
+"STRONG"="strong";
+"WEAK"="weak";
+
+"ACCEPTANCE_QUESTION_STRONG1"="I'm noticeably more insecure than most people.";
+"ACCEPTANCE_QUESTION_STRONG2"="I have more difficulty dealing with criticism than most people.";
+"ACCEPTANCE_QUESTION_STRONG3"="I am said to be inconsistent with my performance.";
+"ACCEPTANCE_QUESTION_WEAK1"="I am confident.";
+"ACCEPTANCE_QUESTION_WEAK2"="I am said to be consistent with my performance.";
+"ACCEPTANCE_QUESTION_WEAK3"="I am confident in my abilities to do things.";
+
+"CURIOSITY_QUESTION_STRONG1"="I am said to be analytical or thoughtful.";
+"CURIOSITY_QUESTION_STRONG2"="My ideas are very important to me.";
+"CURIOSITY_QUESTION_STRONG3"="I am said to be a thinker.";
+"CURIOSITY_QUESTION_WEAK1"="I am said to be a practical person.";
+"CURIOSITY_QUESTION_WEAK2"="I rarely think about theories that cannot be implemented.";
+"CURIOSITY_QUESTION_WEAK3"="I found school boring.";
+
+"EATING_QUESTION_STRONG1"="I enjoy eating.";
+"EATING_QUESTION_STRONG2"="I have a tendency to be overweight.";
+"EATING_QUESTION_STRONG3"="I know a lot about food for gourmets.";
+"EATING_QUESTION_WEAK1"="I am said to be fussy when eating.";
+"EATING_QUESTION_WEAK2"="I have a tendency to be underweight.";
+"EATING_QUESTION_WEAK3"="I rarely look forward to meals.";
+
+"FAMILY_QUESTION_STRONG1"="Children mean everything to me.";
+"FAMILY_QUESTION_STRONG2"="I like having children around me.";
+"FAMILY_QUESTION_STRONG3"="I spend a lot of time with my family.";
+"FAMILY_QUESTION_WEAK1"="Children bore me.";
+"FAMILY_QUESTION_WEAK2"="When I was a young adult, I didn't want children.";
+"FAMILY_QUESTION_WEAK3"="I am often to busy to spend time with my family.";
+
+"HONOR_QUESTION_STRONG1"="I value doing my duty.";
+"HONOR_QUESTION_STRONG2"="I am said to be loyal.";
+"HONOR_QUESTION_STRONG3"="You can rely on my word.";
+"HONOR_QUESTION_WEAK1"="If it were about keeping my job, I would be lying.";
+"HONOR_QUESTION_WEAK2"="If circumstances changed, I would not be able to meet commitments that I made earlier.";
+"HONOR_QUESTION_WEAK3"="I am said to be opportunistic.";
+
+"IDEALISM_QUESTION_STRONG1"="I have compassion for poor and sick people.";
+"IDEALISM_QUESTION_STRONG2"="I admire people whose work contributes to the good of humanity or the needy.";
+"IDEALISM_QUESTION_STRONG3"="I donate generously to charity.";
+"IDEALISM_QUESTION_WEAK1"="I believe it is not my responsibility to help the oppressed.";
+"IDEALISM_QUESTION_WEAK2"="I prefer to look away instead of getting involved in other people's problems.";
+"IDEALISM_QUESTION_WEAK3"="I am rarely outraged by social injustice.";
+
+"INDEPENDENCE_QUESTION_STRONG1"="It's very important to me to be confident.";
+"INDEPENDENCE_QUESTION_STRONG2"="I am said to be stubborn.";
+"INDEPENDENCE_QUESTION_STRONG3"="I am said to do things the way I want to.";
+"INDEPENDENCE_QUESTION_WEAK1"="I appreciate emotional experiences.";
+"INDEPENDENCE_QUESTION_WEAK2"="I'm more of a nonconformist than most people I know.";
+"INDEPENDENCE_QUESTION_WEAK3"="I feel comfortable relying on the support of my family or spouse.";
+
+"ORDER_QUESTION_STRONG1"="I am said to be well organized.";
+"ORDER_QUESTION_STRONG2"="I am said to be clean.";
+"ORDER_QUESTION_STRONG3"="I have difficulty adapting to changes.";
+"ORDER_QUESTION_WEAK1"="I am said to be disorganized.";
+"ORDER_QUESTION_WEAK2"="I like to do things spontaneously.";
+"ORDER_QUESTION_WEAK3"="I tend to have two strings to one's bow.";
+
+"PHYSICAL_ACTIVITY_QUESTION_STRONG1"="Exercising is important for me to be happy.";
+"PHYSICAL_ACTIVITY_QUESTION_STRONG2"="I was a member of a team in sports (school and university combined)  twice.";
+"PHYSICAL_ACTIVITY_QUESTION_STRONG3"="It is very important to me to be fit.";
+"PHYSICAL_ACTIVITY_QUESTION_WEAK1"="I am said to be physically lazy.";
+"PHYSICAL_ACTIVITY_QUESTION_WEAK2"="I tend to avoid physically demanding activities.";
+"PHYSICAL_ACTIVITY_QUESTION_WEAK3"="I am not fit.";
+
+"POWER_QUESTION_STRONG1"="I am said to take matters into my own hands.";
+"POWER_QUESTION_STRONG2"="I strive for a leadership role.";
+"POWER_QUESTION_STRONG3"="I tend to give advice to others without asking.";
+"POWER_QUESTION_WEAK1"="I avoid challenges.";
+"POWER_QUESTION_WEAK2"="I am reluctant to tell others what to do.";
+"POWER_QUESTION_WEAK3"="I am said to be relaxed.";
+
+"ROMANCE_QUESTION_STRONG1"="I dress every day to look attractive.";
+"ROMANCE_QUESTION_STRONG2"="Sexuality is essential to my happiness.";
+"ROMANCE_QUESTION_STRONG3"="I am impressed by people who attract many sexual partners.";
+"ROMANCE_QUESTION_WEAK1"="I rarely have intercourse (significantly less than once a week).";
+"ROMANCE_QUESTION_WEAK2"="I lack self-confidence in relation to my sexual abilities.";
+"ROMANCE_QUESTION_WEAK3"="I rarely think of eros / sexuality in everyday life.";
+
+"SAVING_QUESTION_STRONG1"="I'd rather fix something than buy something as a replacement.";
+"SAVING_QUESTION_STRONG2"="I don't like throwing anything away.";
+"SAVING_QUESTION_STRONG3"="I am said to be economical.";
+"SAVING_QUESTION_WEAK1"="I don't care about the things I own.";
+"SAVING_QUESTION_WEAK2"="I often spend more than I have available in a month.";
+"SAVING_QUESTION_WEAK3"="I am said to be lavish.";
+
+"SOCIAL_CONTACT_QUESTION_STRONG1"="I am good at building social relationships.";
+"SOCIAL_CONTACT_QUESTION_STRONG2"="I am said to be friendly.";
+"SOCIAL_CONTACT_QUESTION_STRONG3"="I have a more active social life than most people I know.";
+"SOCIAL_CONTACT_QUESTION_WEAK1"="I am said to be unapproachable.";
+"SOCIAL_CONTACT_QUESTION_WEAK2"="I spend a lot of time alone (more than most people I know).";
+"SOCIAL_CONTACT_QUESTION_WEAK3"="I have a problem doing small talk.";
+
+"STATUS_QUESTION_STRONG1"="I am said to be a formal person.";
+"STATUS_QUESTION_STRONG2"="I usually buy the most prestigious things I can afford.";
+"STATUS_QUESTION_STRONG3"="I am impressed by rich people.";
+"STATUS_QUESTION_WEAK1"="I don't let rich people impress me.";
+"STATUS_QUESTION_WEAK2"="I am a relaxed person.";
+"STATUS_QUESTION_WEAK3"="I don't care much about what other people think of me.";
+
+"TRANQUILITY_QUESTION_STRONG1"="I am someone who is constantly worried.";
+"TRANQUILITY_QUESTION_STRONG2"="I have panic attacks.";
+"TRANQUILITY_QUESTION_STRONG3"="I have a low tolerance to pain.";
+"TRANQUILITY_QUESTION_WEAK1"="I am said to remain relaxed under pressure.";
+"TRANQUILITY_QUESTION_WEAK2"="I am a daredevil.";
+"TRANQUILITY_QUESTION_WEAK3"="I am said to be brave in dangerous situations.";
+
+"VENGEANCE_QUESTION_STRONG1"="I often get into quarrels, word battles or brawls.";
+"VENGEANCE_QUESTION_STRONG2"="I am said to be a competitor or fighter.";
+"VENGEANCE_QUESTION_STRONG3"="Winning is very important to me.";
+"VENGEANCE_QUESTION_WEAK1"="I am said to be a peacemaker.";
+"VENGEANCE_QUESTION_WEAK2"="I try very hard to avoid confrontation.";
+"VENGEANCE_QUESTION_WEAK3"="I find violence deterring.";
