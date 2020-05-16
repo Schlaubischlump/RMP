@@ -87,6 +87,7 @@ class DetailViewController: UITableViewController {
         }
     }
 
+    // This is a workaround for a bug inside catalyst where `didDeselectRowAt` is not called.
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         if let cell = tableView.cellForRow(at: indexPath) {
             #if targetEnvironment(macCatalyst)
